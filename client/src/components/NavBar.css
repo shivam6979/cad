@@ -1,0 +1,25 @@
+
+*{
+    padding-top: 5px;
+    /* background-color:red; */
+}
+
+img{
+    width: 30px;
+}
+.para{
+    padding-top: 0%;
+    padding-left: 30%;
+    width: 40%;
+    align-items: center;
+}
+
+@media screen and (max-width:600px)
+{
+
+    h1{
+        color: blue;
+        font-size: large;
+    }
+
+}

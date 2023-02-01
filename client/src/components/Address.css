@@ -1,0 +1,31 @@
+.address{
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+    /* background-color:red; */
+    align-items: center;
+}
+
+.category9{
+    display: flex;
+}
+
+.address button{
+    background-color: rgb(13, 86, 232);
+    border-color: rgb(13, 86, 232);
+
+}
+.location1{
+    display: grid;
+
+}
+.righta{
+    float: right;
+    margin-left: 20%;
+    background-color: red;
+}
+.lefta{
+    float: left;
+    /* margin: 20%; */
+    background-color: blue;
+}
